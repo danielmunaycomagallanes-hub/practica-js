@@ -29,3 +29,5 @@ const pelicula = {
 
     escritores: ["James Cameron"]
 };
+
+console.log(pelicula)
